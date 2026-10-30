@@ -1,4 +1,4 @@
-# Automatic Payday 2 DLC Unlocker Tool
+# Payday 2 DLC Unlocker Tool
 
 An all-in one tool that automatically activates unlocks, activates and downloads DLCs in **Payday 2**, both in multiplayer and single, modded and unmodded versions. 
 
